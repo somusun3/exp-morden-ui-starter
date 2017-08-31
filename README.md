@@ -1,7 +1,8 @@
-# exp-morden-ui-starter
+# Expiremental Morden UI starter project
 An expiremental Morden UI starter project based on https://github.com/monadoy/react-typescript-starter
+=======================================
 
-**NOTE! Just keeping the original README as is since it makes sense now.
+*NOTE! Just keeping the original README as is since it is based on https://github.com/monadoy/react-typescript-starter
 
 Monad React Starter (Typescript + React + Redux + React-Router v4 + Material UI)
 =======================================
